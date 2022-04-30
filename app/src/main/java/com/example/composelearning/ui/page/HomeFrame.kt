@@ -59,11 +59,11 @@ fun HomeFrame() {
             }
         }
     }) {
-//        WebViewWidget(
-//            modifier = Modifier.background(Color.Transparent),
-//            token = homeUrl[currentNavigationIndex],
-//            id = "1"
-//        )
+        WebViewWidget(
+            modifier = Modifier.background(Color.Transparent),
+            token = homeUrl[currentNavigationIndex],
+            id = "1"
+        )
 //        Box(modifier = Modifier.absolutePadding(0.dp, 0.dp, 0.dp, 0.dp)) {
 //            Text(text = homeString[currentNavigationIndex])
 //        }
