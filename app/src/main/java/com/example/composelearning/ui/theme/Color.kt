@@ -6,3 +6,6 @@ val Purple200 = Color(0xFFBB86FC)
 val Purple500 = Color(0xFF6200EE)
 val Purple700 = Color(0xFF3700B3)
 val Teal200 = Color(0xFF03DAC5)
+//添加标题栏的2个渐变色开始和结束值
+val Blue700 = Color(0xFF149EE7)
+val Blue200 = Color(0xFF20CDF5)
